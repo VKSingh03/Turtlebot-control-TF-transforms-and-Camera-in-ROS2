@@ -1,10 +1,3 @@
-Project 2 - Group 5
-
-Rohit Reddy Pakhala (rpakhala)
-Sameer Arjun S (ssarjun)
-Vineet Kumar Singh (vsingh03)
-
-
 
 odom_updater_package - Updated package for the package
 dynamic_tf2_frame_publisher - Implemented subscriber and broadcaster
